@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_080a6d2e"
+  },
+  {
+    "name": "apotek",
+    "path": "/apotek",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\index.vue",
+    "chunkName": "pages/apotek/index",
+    "_name": "_00c9457c"
+  },
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\chat.vue",
+    "chunkName": "pages/chat",
+    "_name": "_5370f5c4"
+  },
+  {
+    "name": "dokter",
+    "path": "/dokter",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\index.vue",
+    "chunkName": "pages/dokter/index",
+    "_name": "_4316140a"
+  },
+  {
+    "name": "empty",
+    "path": "/empty",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\empty.vue",
+    "chunkName": "pages/empty",
+    "_name": "_401583f7"
+  },
+  {
+    "name": "forms",
+    "path": "/forms",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms.vue",
+    "chunkName": "pages/forms",
+    "children": [
+      {
+        "name": "forms-basic-forms",
+        "path": "basic-forms",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms\\\\basic-forms.vue",
+        "chunkName": "pages/forms/basic-forms",
+        "_name": "_ea063972"
+      },
+      {
+        "name": "forms-editors",
+        "path": "editors",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms\\\\editors.vue",
+        "chunkName": "pages/forms/editors",
+        "_name": "_23edc29d"
+      },
+      {
+        "name": "forms-selection-controls",
+        "path": "selection-controls",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms\\\\selection-controls.vue",
+        "chunkName": "pages/forms/selection-controls",
+        "_name": "_5dea1d30"
+      },
+      {
+        "name": "forms-selects",
+        "path": "selects",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms\\\\selects.vue",
+        "chunkName": "pages/forms/selects",
+        "_name": "_6bf3906e"
+      },
+      {
+        "name": "forms-steppers",
+        "path": "steppers",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms\\\\steppers.vue",
+        "chunkName": "pages/forms/steppers",
+        "_name": "_a8878a4a"
+      },
+      {
+        "name": "forms-text-fields",
+        "path": "text-fields",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\forms\\\\text-fields.vue",
+        "chunkName": "pages/forms/text-fields",
+        "_name": "_83207760"
+      }
+    ],
+    "_name": "_01a249d9"
+  },
+  {
+    "name": "general",
+    "path": "/general",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general.vue",
+    "chunkName": "pages/general",
+    "children": [
+      {
+        "name": "general-alerts",
+        "path": "alerts",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\alerts.vue",
+        "chunkName": "pages/general/alerts",
+        "_name": "_301213ae"
+      },
+      {
+        "name": "general-avatars",
+        "path": "avatars",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\avatars.vue",
+        "chunkName": "pages/general/avatars",
+        "_name": "_35573a98"
+      },
+      {
+        "name": "general-badges",
+        "path": "badges",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\badges.vue",
+        "chunkName": "pages/general/badges",
+        "_name": "_941d8f7c"
+      },
+      {
+        "name": "general-buttons",
+        "path": "buttons",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\buttons.vue",
+        "chunkName": "pages/general/buttons",
+        "_name": "_966ad742"
+      },
+      {
+        "name": "general-cards",
+        "path": "cards",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\cards.vue",
+        "chunkName": "pages/general/cards",
+        "_name": "_27adf4c1"
+      },
+      {
+        "name": "general-carousels",
+        "path": "carousels",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\carousels.vue",
+        "chunkName": "pages/general/carousels",
+        "_name": "_17cbed71"
+      },
+      {
+        "name": "general-chips",
+        "path": "chips",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\chips.vue",
+        "chunkName": "pages/general/chips",
+        "_name": "_37384105"
+      },
+      {
+        "name": "general-colors",
+        "path": "colors",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\colors.vue",
+        "chunkName": "pages/general/colors",
+        "_name": "_7b3a06fc"
+      },
+      {
+        "name": "general-dialogs",
+        "path": "dialogs",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\dialogs.vue",
+        "chunkName": "pages/general/dialogs",
+        "_name": "_1f131c09"
+      },
+      {
+        "name": "general-icons",
+        "path": "icons",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\icons.vue",
+        "chunkName": "pages/general/icons",
+        "_name": "_392ea610"
+      },
+      {
+        "name": "general-pagination",
+        "path": "pagination",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\pagination.vue",
+        "chunkName": "pages/general/pagination",
+        "_name": "_3d94f6a8"
+      },
+      {
+        "name": "general-parallax",
+        "path": "parallax",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\parallax.vue",
+        "chunkName": "pages/general/parallax",
+        "_name": "_0884caa9"
+      },
+      {
+        "name": "general-progress",
+        "path": "progress",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\progress.vue",
+        "chunkName": "pages/general/progress",
+        "_name": "_b841b782"
+      },
+      {
+        "name": "general-sliders",
+        "path": "sliders",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\sliders.vue",
+        "chunkName": "pages/general/sliders",
+        "_name": "_1a36f810"
+      },
+      {
+        "name": "general-snackbar",
+        "path": "snackbar",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\snackbar.vue",
+        "chunkName": "pages/general/snackbar",
+        "_name": "_25ab1f17"
+      },
+      {
+        "name": "general-tables",
+        "path": "tables",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\tables.vue",
+        "chunkName": "pages/general/tables",
+        "_name": "_1bd7faf7"
+      },
+      {
+        "name": "general-tooltips",
+        "path": "tooltips",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\tooltips.vue",
+        "chunkName": "pages/general/tooltips",
+        "_name": "_f0eaed3c"
+      },
+      {
+        "name": "general-typography",
+        "path": "typography",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\general\\\\typography.vue",
+        "chunkName": "pages/general/typography",
+        "_name": "_6357efc1"
+      }
+    ],
+    "_name": "_84d334dc"
+  },
+  {
+    "name": "kasir",
+    "path": "/kasir",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\index.vue",
+    "chunkName": "pages/kasir/index",
+    "_name": "_28148492"
+  },
+  {
+    "name": "mail",
+    "path": "/mail",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\mail.vue",
+    "chunkName": "pages/mail",
+    "children": [
+      {
+        "name": "mail-0-uuid",
+        "path": "0/:uuid?",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\mail\\\\0\\\\_uuid.vue",
+        "chunkName": "pages/mail/0/_uuid",
+        "_name": "_21447727"
+      },
+      {
+        "name": "mail-mailType",
+        "path": ":mailType?",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\mail\\\\_mailType.vue",
+        "chunkName": "pages/mail/_mailType",
+        "_name": "_da5ff0fa"
+      }
+    ],
+    "_name": "_7ffdaffd"
+  },
+  {
+    "name": "media",
+    "path": "/media",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\media.vue",
+    "chunkName": "pages/media",
+    "_name": "_144d4b0e"
+  },
+  {
+    "name": "owner",
+    "path": "/owner",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\owner\\\\index.vue",
+    "chunkName": "pages/owner/index",
+    "_name": "_43d61385"
+  },
+  {
+    "name": "pendaftaran",
+    "path": "/pendaftaran",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\index.vue",
+    "chunkName": "pages/pendaftaran/index",
+    "_name": "_20159396"
+  },
+  {
+    "name": "pickers",
+    "path": "/pickers",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pickers.vue",
+    "chunkName": "pages/pickers",
+    "children": [
+      {
+        "name": "pickers-datepicker",
+        "path": "datepicker",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pickers\\\\datepicker.vue",
+        "chunkName": "pages/pickers/datepicker",
+        "_name": "_7a955eea"
+      },
+      {
+        "name": "pickers-timepicker",
+        "path": "timepicker",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pickers\\\\timepicker.vue",
+        "chunkName": "pages/pickers/timepicker",
+        "_name": "_1ece98ea"
+      }
+    ],
+    "_name": "_48d0bfcf"
+  },
+  {
+    "name": "widgets",
+    "path": "/widgets",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\widgets.vue",
+    "chunkName": "pages/widgets",
+    "children": [
+      {
+        "name": "widgets-chart",
+        "path": "chart",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\widgets\\\\chart.vue",
+        "chunkName": "pages/widgets/chart",
+        "_name": "_7499b795"
+      },
+      {
+        "name": "widgets-list",
+        "path": "list",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\widgets\\\\list.vue",
+        "chunkName": "pages/widgets/list",
+        "_name": "_457fcf92"
+      },
+      {
+        "name": "widgets-social",
+        "path": "social",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\widgets\\\\social.vue",
+        "chunkName": "pages/widgets/social",
+        "_name": "_479a8346"
+      },
+      {
+        "name": "widgets-statistic",
+        "path": "statistic",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\widgets\\\\statistic.vue",
+        "chunkName": "pages/widgets/statistic",
+        "_name": "_2ab5aef2"
+      }
+    ],
+    "_name": "_533b0fd9"
+  },
+  {
+    "name": "admin-absen",
+    "path": "/admin/absen",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\absen\\\\index.vue",
+    "chunkName": "pages/admin/absen/index",
+    "_name": "_e63578e0"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\dashboard.vue",
+    "chunkName": "pages/admin/dashboard",
+    "_name": "_553642ab"
+  },
+  {
+    "name": "admin-data_pasien",
+    "path": "/admin/data_pasien",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\data_pasien\\\\index.vue",
+    "chunkName": "pages/admin/data_pasien/index",
+    "_name": "_015c3806"
+  },
+  {
+    "name": "admin-dokter",
+    "path": "/admin/dokter",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\dokter\\\\index.vue",
+    "chunkName": "pages/admin/dokter/index",
+    "_name": "_cb5fb530"
+  },
+  {
+    "name": "admin-inventori",
+    "path": "/admin/inventori",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\inventori\\\\index.vue",
+    "chunkName": "pages/admin/inventori/index",
+    "_name": "_1d97b9bf"
+  },
+  {
+    "name": "admin-karyawan",
+    "path": "/admin/karyawan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\karyawan\\\\index.vue",
+    "chunkName": "pages/admin/karyawan/index",
+    "_name": "_035100a9"
+  },
+  {
+    "name": "admin-login",
+    "path": "/admin/login",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\login.vue",
+    "chunkName": "pages/admin/login",
+    "_name": "_74bb2700"
+  },
+  {
+    "name": "admin-pelayanan_apotek",
+    "path": "/admin/pelayanan_apotek",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\pelayanan_apotek\\\\index.vue",
+    "chunkName": "pages/admin/pelayanan_apotek/index",
+    "_name": "_47da6059"
+  },
+  {
+    "name": "admin-pendapatan",
+    "path": "/admin/pendapatan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\pendapatan\\\\index.vue",
+    "chunkName": "pages/admin/pendapatan/index",
+    "_name": "_588cccaf"
+  },
+  {
+    "name": "admin-rekam_medis",
+    "path": "/admin/rekam_medis",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\rekam_medis\\\\index.vue",
+    "chunkName": "pages/admin/rekam_medis/index",
+    "_name": "_21cf56a0"
+  },
+  {
+    "name": "admin-rujukan",
+    "path": "/admin/rujukan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\rujukan\\\\index.vue",
+    "chunkName": "pages/admin/rujukan/index",
+    "_name": "_3b4b3041"
+  },
+  {
+    "name": "apotek-dashboard",
+    "path": "/apotek/dashboard",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\dashboard.vue",
+    "chunkName": "pages/apotek/dashboard",
+    "_name": "_a7717bf8"
+  },
+  {
+    "name": "apotek-inventori",
+    "path": "/apotek/inventori",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\inventori\\\\index.vue",
+    "chunkName": "pages/apotek/inventori/index",
+    "_name": "_1d827446"
+  },
+  {
+    "name": "apotek-login",
+    "path": "/apotek/login",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\login.vue",
+    "chunkName": "pages/apotek/login",
+    "_name": "_6d79ff4e"
+  },
+  {
+    "name": "apotek-obat",
+    "path": "/apotek/obat",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\obat\\\\index.vue",
+    "chunkName": "pages/apotek/obat/index",
+    "_name": "_62e53288"
+  },
+  {
+    "name": "apotek-permintaan",
+    "path": "/apotek/permintaan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\permintaan\\\\index.vue",
+    "chunkName": "pages/apotek/permintaan/index",
+    "_name": "_1fc1fd73"
+  },
+  {
+    "name": "apotek-report",
+    "path": "/apotek/report",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\report\\\\index.vue",
+    "chunkName": "pages/apotek/report/index",
+    "_name": "_15460c0e"
+  },
+  {
+    "name": "dokter-chat",
+    "path": "/dokter/chat",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\chat.vue",
+    "chunkName": "pages/dokter/chat",
+    "_name": "_4dd2d03f"
+  },
+  {
+    "name": "dokter-dashboard",
+    "path": "/dokter/dashboard",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\dashboard.vue",
+    "chunkName": "pages/dokter/dashboard",
+    "_name": "_42785386"
+  },
+  {
+    "name": "dokter-empty",
+    "path": "/dokter/empty",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\empty.vue",
+    "chunkName": "pages/dokter/empty",
+    "_name": "_8c18c614"
+  },
+  {
+    "name": "dokter-forms",
+    "path": "/dokter/forms",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms.vue",
+    "chunkName": "pages/dokter/forms",
+    "children": [
+      {
+        "name": "dokter-forms-basic-forms",
+        "path": "basic-forms",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms\\\\basic-forms.vue",
+        "chunkName": "pages/dokter/forms/basic-forms",
+        "_name": "_50b1a0a8"
+      },
+      {
+        "name": "dokter-forms-editors",
+        "path": "editors",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms\\\\editors.vue",
+        "chunkName": "pages/dokter/forms/editors",
+        "_name": "_1b92587e"
+      },
+      {
+        "name": "dokter-forms-selection-controls",
+        "path": "selection-controls",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms\\\\selection-controls.vue",
+        "chunkName": "pages/dokter/forms/selection-controls",
+        "_name": "_2028c0af"
+      },
+      {
+        "name": "dokter-forms-selects",
+        "path": "selects",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms\\\\selects.vue",
+        "chunkName": "pages/dokter/forms/selects",
+        "_name": "_6398264f"
+      },
+      {
+        "name": "dokter-forms-steppers",
+        "path": "steppers",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms\\\\steppers.vue",
+        "chunkName": "pages/dokter/forms/steppers",
+        "_name": "_aeab3dcc"
+      },
+      {
+        "name": "dokter-forms-text-fields",
+        "path": "text-fields",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\forms\\\\text-fields.vue",
+        "chunkName": "pages/dokter/forms/text-fields",
+        "_name": "_f7b6fc9e"
+      }
+    ],
+    "_name": "_7b8062d8"
+  },
+  {
+    "name": "dokter-general",
+    "path": "/dokter/general",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general.vue",
+    "chunkName": "pages/dokter/general",
+    "children": [
+      {
+        "name": "dokter-general-alerts",
+        "path": "alerts",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\alerts.vue",
+        "chunkName": "pages/dokter/general/alerts",
+        "_name": "_3635c730"
+      },
+      {
+        "name": "dokter-general-avatars",
+        "path": "avatars",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\avatars.vue",
+        "chunkName": "pages/dokter/general/avatars",
+        "_name": "_53a4478e"
+      },
+      {
+        "name": "dokter-general-badges",
+        "path": "badges",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\badges.vue",
+        "chunkName": "pages/dokter/general/badges",
+        "_name": "_9a4142fe"
+      },
+      {
+        "name": "dokter-general-buttons",
+        "path": "buttons",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\buttons.vue",
+        "chunkName": "pages/dokter/general/buttons",
+        "_name": "_55a13600"
+      },
+      {
+        "name": "dokter-general-cards",
+        "path": "cards",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\cards.vue",
+        "chunkName": "pages/dokter/general/cards",
+        "_name": "_1f528aa2"
+      },
+      {
+        "name": "dokter-general-carousels",
+        "path": "carousels",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\carousels.vue",
+        "chunkName": "pages/dokter/general/carousels",
+        "_name": "_44feaa5c"
+      },
+      {
+        "name": "dokter-general-chips",
+        "path": "chips",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\chips.vue",
+        "chunkName": "pages/dokter/general/chips",
+        "_name": "_2edcd6e6"
+      },
+      {
+        "name": "dokter-general-colors",
+        "path": "colors",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\colors.vue",
+        "chunkName": "pages/dokter/general/colors",
+        "_name": "_815dba7e"
+      },
+      {
+        "name": "dokter-general-dialogs",
+        "path": "dialogs",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\dialogs.vue",
+        "chunkName": "pages/dokter/general/dialogs",
+        "_name": "_802c84ac"
+      },
+      {
+        "name": "dokter-general-icons",
+        "path": "icons",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\icons.vue",
+        "chunkName": "pages/dokter/general/icons",
+        "_name": "_49e57a4e"
+      },
+      {
+        "name": "dokter-general-pagination",
+        "path": "pagination",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\pagination.vue",
+        "chunkName": "pages/dokter/general/pagination",
+        "_name": "_5bcf192a"
+      },
+      {
+        "name": "dokter-general-parallax",
+        "path": "parallax",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\parallax.vue",
+        "chunkName": "pages/dokter/general/parallax",
+        "_name": "_fafb45b0"
+      },
+      {
+        "name": "dokter-general-progress",
+        "path": "progress",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\progress.vue",
+        "chunkName": "pages/dokter/general/progress",
+        "_name": "_1ddcb6be"
+      },
+      {
+        "name": "dokter-general-sliders",
+        "path": "sliders",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\sliders.vue",
+        "chunkName": "pages/dokter/general/sliders",
+        "_name": "_89e4cc9e"
+      },
+      {
+        "name": "dokter-general-snackbar",
+        "path": "snackbar",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\snackbar.vue",
+        "chunkName": "pages/dokter/general/snackbar",
+        "_name": "_c0ae9cd4"
+      },
+      {
+        "name": "dokter-general-tables",
+        "path": "tables",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\tables.vue",
+        "chunkName": "pages/dokter/general/tables",
+        "_name": "_18c62136"
+      },
+      {
+        "name": "dokter-general-tooltips",
+        "path": "tooltips",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\tooltips.vue",
+        "chunkName": "pages/dokter/general/tooltips",
+        "_name": "_01881be1"
+      },
+      {
+        "name": "dokter-general-typography",
+        "path": "typography",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\general\\\\typography.vue",
+        "chunkName": "pages/dokter/general/typography",
+        "_name": "_543ade80"
+      }
+    ],
+    "_name": "_38523ad1"
+  },
+  {
+    "name": "dokter-login",
+    "path": "/dokter/login",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\login.vue",
+    "chunkName": "pages/dokter/login",
+    "_name": "_afc6cddc"
+  },
+  {
+    "name": "dokter-mail",
+    "path": "/dokter/mail",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\mail.vue",
+    "chunkName": "pages/dokter/mail",
+    "children": [
+      {
+        "name": "dokter-mail-0-uuid",
+        "path": "0/:uuid?",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\mail\\\\0\\\\_uuid.vue",
+        "chunkName": "pages/dokter/mail/0/_uuid",
+        "_name": "_18e90d08"
+      },
+      {
+        "name": "dokter-mail-mailType",
+        "path": ":mailType?",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\mail\\\\_mailType.vue",
+        "chunkName": "pages/dokter/mail/_mailType",
+        "_name": "_e083a47c"
+      }
+    ],
+    "_name": "_10ee09c4"
+  },
+  {
+    "name": "dokter-media",
+    "path": "/dokter/media",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\media.vue",
+    "chunkName": "pages/dokter/media",
+    "_name": "_e3a937e6"
+  },
+  {
+    "name": "dokter-pemeriksaan",
+    "path": "/dokter/pemeriksaan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\pemeriksaan\\\\index.vue",
+    "chunkName": "pages/dokter/pemeriksaan/index",
+    "_name": "_2f12c297"
+  },
+  {
+    "name": "dokter-pickers",
+    "path": "/dokter/pickers",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\pickers.vue",
+    "chunkName": "pages/dokter/pickers",
+    "children": [
+      {
+        "name": "dokter-pickers-datepicker",
+        "path": "datepicker",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\pickers\\\\datepicker.vue",
+        "chunkName": "pages/dokter/pickers/datepicker",
+        "_name": "_98cf816c"
+      },
+      {
+        "name": "dokter-pickers-timepicker",
+        "path": "timepicker",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\pickers\\\\timepicker.vue",
+        "chunkName": "pages/dokter/pickers/timepicker",
+        "_name": "_0fb187a9"
+      }
+    ],
+    "_name": "_78e6d5e4"
+  },
+  {
+    "name": "dokter-report_pemeriksaan",
+    "path": "/dokter/report_pemeriksaan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\report_pemeriksaan\\\\index.vue",
+    "chunkName": "pages/dokter/report_pemeriksaan/index",
+    "_name": "_f7e659f8"
+  },
+  {
+    "name": "dokter-widgets",
+    "path": "/dokter/widgets",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\widgets.vue",
+    "chunkName": "pages/dokter/widgets",
+    "children": [
+      {
+        "name": "dokter-widgets-chart",
+        "path": "chart",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\widgets\\\\chart.vue",
+        "chunkName": "pages/dokter/widgets/chart",
+        "_name": "_6c3e4d76"
+      },
+      {
+        "name": "dokter-widgets-list",
+        "path": "list",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\widgets\\\\list.vue",
+        "chunkName": "pages/dokter/widgets/list",
+        "_name": "_989e7b94"
+      },
+      {
+        "name": "dokter-widgets-social",
+        "path": "social",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\widgets\\\\social.vue",
+        "chunkName": "pages/dokter/widgets/social",
+        "_name": "_4488a985"
+      },
+      {
+        "name": "dokter-widgets-statistic",
+        "path": "statistic",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\widgets\\\\statistic.vue",
+        "chunkName": "pages/dokter/widgets/statistic",
+        "_name": "_9f4c3430"
+      }
+    ],
+    "_name": "_641235d0"
+  },
+  {
+    "name": "kasir-dashboard",
+    "path": "/kasir/dashboard",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\dashboard.vue",
+    "chunkName": "pages/kasir/dashboard",
+    "_name": "_1a3c4154"
+  },
+  {
+    "name": "kasir-keuangan",
+    "path": "/kasir/keuangan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\keuangan\\\\index.vue",
+    "chunkName": "pages/kasir/keuangan/index",
+    "_name": "_478484f4"
+  },
+  {
+    "name": "kasir-login",
+    "path": "/kasir/login",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\login.vue",
+    "chunkName": "pages/kasir/login",
+    "_name": "_1c87b0ae"
+  },
+  {
+    "name": "kasir-pembayaran",
+    "path": "/kasir/pembayaran",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\pembayaran\\\\index.vue",
+    "chunkName": "pages/kasir/pembayaran/index",
+    "_name": "_390db41c"
+  },
+  {
+    "name": "kasir-report",
+    "path": "/kasir/report",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\report\\\\index.vue",
+    "chunkName": "pages/kasir/report/index",
+    "_name": "_770ae35e"
+  },
+  {
+    "name": "owner-dashboard",
+    "path": "/owner/dashboard",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\owner\\\\dashboard.vue",
+    "chunkName": "pages/owner/dashboard",
+    "_name": "_4be71ec7"
+  },
+  {
+    "name": "owner-login",
+    "path": "/owner/login",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\owner\\\\login.vue",
+    "chunkName": "pages/owner/login",
+    "_name": "_0d7db69c"
+  },
+  {
+    "name": "pendaftaran-chat",
+    "path": "/pendaftaran/chat",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\chat.vue",
+    "chunkName": "pages/pendaftaran/chat",
+    "_name": "_372a9344"
+  },
+  {
+    "name": "pendaftaran-daftar_pasien",
+    "path": "/pendaftaran/daftar_pasien",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\daftar_pasien\\\\index.vue",
+    "chunkName": "pages/pendaftaran/daftar_pasien/index",
+    "_name": "_a0d8056a"
+  },
+  {
+    "name": "pendaftaran-daftar_pemeriksaan",
+    "path": "/pendaftaran/daftar_pemeriksaan",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\daftar_pemeriksaan\\\\index.vue",
+    "chunkName": "pages/pendaftaran/daftar_pemeriksaan/index",
+    "_name": "_2c12b5d7"
+  },
+  {
+    "name": "pendaftaran-dashboard",
+    "path": "/pendaftaran/dashboard",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\dashboard.vue",
+    "chunkName": "pages/pendaftaran/dashboard",
+    "_name": "_0553a350"
+  },
+  {
+    "name": "pendaftaran-empty",
+    "path": "/pendaftaran/empty",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\empty.vue",
+    "chunkName": "pages/pendaftaran/empty",
+    "_name": "_08d78ade"
+  },
+  {
+    "name": "pendaftaran-forms",
+    "path": "/pendaftaran/forms",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms.vue",
+    "chunkName": "pages/pendaftaran/forms",
+    "children": [
+      {
+        "name": "pendaftaran-forms-basic-forms",
+        "path": "basic-forms",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms\\\\basic-forms.vue",
+        "chunkName": "pages/pendaftaran/forms/basic-forms",
+        "_name": "_790136ed"
+      },
+      {
+        "name": "pendaftaran-forms-editors",
+        "path": "editors",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms\\\\editors.vue",
+        "chunkName": "pages/pendaftaran/forms/editors",
+        "_name": "_be6c4d7a"
+      },
+      {
+        "name": "pendaftaran-forms-selection-controls",
+        "path": "selection-controls",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms\\\\selection-controls.vue",
+        "chunkName": "pages/pendaftaran/forms/selection-controls",
+        "_name": "_7e14fa6c"
+      },
+      {
+        "name": "pendaftaran-forms-selects",
+        "path": "selects",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms\\\\selects.vue",
+        "chunkName": "pages/pendaftaran/forms/selects",
+        "_name": "_2e60b1d8"
+      },
+      {
+        "name": "pendaftaran-forms-steppers",
+        "path": "steppers",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms\\\\steppers.vue",
+        "chunkName": "pages/pendaftaran/forms/steppers",
+        "_name": "_6b3a0e16"
+      },
+      {
+        "name": "pendaftaran-forms-text-fields",
+        "path": "text-fields",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\forms\\\\text-fields.vue",
+        "chunkName": "pages/pendaftaran/forms/text-fields",
+        "_name": "_a717d014"
+      }
+    ],
+    "_name": "_85bdff1a"
+  },
+  {
+    "name": "pendaftaran-general",
+    "path": "/pendaftaran/general",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general.vue",
+    "chunkName": "pages/pendaftaran/general",
+    "children": [
+      {
+        "name": "pendaftaran-general-alerts",
+        "path": "alerts",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\alerts.vue",
+        "chunkName": "pages/pendaftaran/general/alerts",
+        "_name": "_069db443"
+      },
+      {
+        "name": "pendaftaran-general-avatars",
+        "path": "avatars",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\avatars.vue",
+        "chunkName": "pages/pendaftaran/general/avatars",
+        "_name": "_28ef8084"
+      },
+      {
+        "name": "pendaftaran-general-badges",
+        "path": "badges",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\badges.vue",
+        "chunkName": "pages/pendaftaran/general/badges",
+        "_name": "_56d01348"
+      },
+      {
+        "name": "pendaftaran-general-buttons",
+        "path": "buttons",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\buttons.vue",
+        "chunkName": "pages/pendaftaran/general/buttons",
+        "_name": "_6afb9985"
+      },
+      {
+        "name": "pendaftaran-general-cards",
+        "path": "cards",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\cards.vue",
+        "chunkName": "pages/pendaftaran/general/cards",
+        "_name": "_b6ebe932"
+      },
+      {
+        "name": "pendaftaran-general-carousels",
+        "path": "carousels",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\carousels.vue",
+        "chunkName": "pages/pendaftaran/general/carousels",
+        "_name": "_05d04117"
+      },
+      {
+        "name": "pendaftaran-general-chips",
+        "path": "chips",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\chips.vue",
+        "chunkName": "pages/pendaftaran/general/chips",
+        "_name": "_97d750aa"
+      },
+      {
+        "name": "pendaftaran-general-colors",
+        "path": "colors",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\colors.vue",
+        "chunkName": "pages/pendaftaran/general/colors",
+        "_name": "_3dec8ac8"
+      },
+      {
+        "name": "pendaftaran-general-dialogs",
+        "path": "dialogs",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\dialogs.vue",
+        "chunkName": "pages/pendaftaran/general/dialogs",
+        "_name": "_5577bda2"
+      },
+      {
+        "name": "pendaftaran-general-icons",
+        "path": "icons",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\icons.vue",
+        "chunkName": "pages/pendaftaran/general/icons",
+        "_name": "_6044c39e"
+      },
+      {
+        "name": "pendaftaran-general-pagination",
+        "path": "pagination",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\pagination.vue",
+        "chunkName": "pages/pendaftaran/general/pagination",
+        "_name": "_9888b474"
+      },
+      {
+        "name": "pendaftaran-general-parallax",
+        "path": "parallax",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\parallax.vue",
+        "chunkName": "pages/pendaftaran/general/parallax",
+        "_name": "_18746a43"
+      },
+      {
+        "name": "pendaftaran-general-progress",
+        "path": "progress",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\progress.vue",
+        "chunkName": "pages/pendaftaran/general/progress",
+        "_name": "_9862784e"
+      },
+      {
+        "name": "pendaftaran-general-sliders",
+        "path": "sliders",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\sliders.vue",
+        "chunkName": "pages/pendaftaran/general/sliders",
+        "_name": "_5f300594"
+      },
+      {
+        "name": "pendaftaran-general-snackbar",
+        "path": "snackbar",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\snackbar.vue",
+        "chunkName": "pages/pendaftaran/general/snackbar",
+        "_name": "_359abeb1"
+      },
+      {
+        "name": "pendaftaran-general-tables",
+        "path": "tables",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\tables.vue",
+        "chunkName": "pages/pendaftaran/general/tables",
+        "_name": "_3a7eb911"
+      },
+      {
+        "name": "pendaftaran-general-tooltips",
+        "path": "tooltips",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\tooltips.vue",
+        "chunkName": "pages/pendaftaran/general/tooltips",
+        "_name": "_d10bae08"
+      },
+      {
+        "name": "pendaftaran-general-typography",
+        "path": "typography",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\general\\\\typography.vue",
+        "chunkName": "pages/pendaftaran/general/typography",
+        "_name": "_35de10db"
+      }
+    ],
+    "_name": "_d77c44a8"
+  },
+  {
+    "name": "pendaftaran-login",
+    "path": "/pendaftaran/login",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\login.vue",
+    "chunkName": "pages/pendaftaran/login",
+    "_name": "_2c8592a6"
+  },
+  {
+    "name": "pendaftaran-mail",
+    "path": "/pendaftaran/mail",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\mail.vue",
+    "chunkName": "pages/pendaftaran/mail",
+    "children": [
+      {
+        "name": "pendaftaran-mail-0-uuid",
+        "path": "0/:uuid?",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\mail\\\\0\\\\_uuid.vue",
+        "chunkName": "pages/pendaftaran/mail/0/_uuid",
+        "_name": "_c3bee466"
+      },
+      {
+        "name": "pendaftaran-mail-mailType",
+        "path": ":mailType?",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\mail\\\\_mailType.vue",
+        "chunkName": "pages/pendaftaran/mail/_mailType",
+        "_name": "_9d1274c6"
+      }
+    ],
+    "_name": "_3e3e83ba"
+  },
+  {
+    "name": "pendaftaran-media",
+    "path": "/pendaftaran/media",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\media.vue",
+    "chunkName": "pages/pendaftaran/media",
+    "_name": "_6067fcb0"
+  },
+  {
+    "name": "pendaftaran-pickers",
+    "path": "/pendaftaran/pickers",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\pickers.vue",
+    "chunkName": "pages/pendaftaran/pickers",
+    "children": [
+      {
+        "name": "pendaftaran-pickers-datepicker",
+        "path": "datepicker",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\pickers\\\\datepicker.vue",
+        "chunkName": "pages/pendaftaran/pickers/datepicker",
+        "_name": "_d5891cb6"
+      },
+      {
+        "name": "pendaftaran-pickers-timepicker",
+        "path": "timepicker",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\pickers\\\\timepicker.vue",
+        "chunkName": "pages/pendaftaran/pickers/timepicker",
+        "_name": "_1d568bf8"
+      }
+    ],
+    "_name": "_1f7c37e9"
+  },
+  {
+    "name": "pendaftaran-widgets",
+    "path": "/pendaftaran/widgets",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\widgets.vue",
+    "chunkName": "pages/pendaftaran/widgets",
+    "children": [
+      {
+        "name": "pendaftaran-widgets-chart",
+        "path": "chart",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\widgets\\\\chart.vue",
+        "chunkName": "pages/pendaftaran/widgets/chart",
+        "_name": "_1d14638a"
+      },
+      {
+        "name": "pendaftaran-widgets-list",
+        "path": "list",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\widgets\\\\list.vue",
+        "chunkName": "pages/pendaftaran/widgets/list",
+        "_name": "_12d394d1"
+      },
+      {
+        "name": "pendaftaran-widgets-social",
+        "path": "social",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\widgets\\\\social.vue",
+        "chunkName": "pages/pendaftaran/widgets/social",
+        "_name": "_66414160"
+      },
+      {
+        "name": "pendaftaran-widgets-statistic",
+        "path": "statistic",
+        "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\widgets\\\\statistic.vue",
+        "chunkName": "pages/pendaftaran/widgets/statistic",
+        "_name": "_4ead07a6"
+      }
+    ],
+    "_name": "_29e687f3"
+  },
+  {
+    "name": "admin-dokter-edit",
+    "path": "/admin/dokter/edit",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\dokter\\\\edit.vue",
+    "chunkName": "pages/admin/dokter/edit",
+    "_name": "_0b1db0e4"
+  },
+  {
+    "name": "admin-dokter-tambah",
+    "path": "/admin/dokter/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\dokter\\\\tambah.vue",
+    "chunkName": "pages/admin/dokter/tambah",
+    "_name": "_e928697a"
+  },
+  {
+    "name": "admin-karyawan-edit",
+    "path": "/admin/karyawan/edit",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\karyawan\\\\edit.vue",
+    "chunkName": "pages/admin/karyawan/edit",
+    "_name": "_ca382cfa"
+  },
+  {
+    "name": "admin-karyawan-tambah",
+    "path": "/admin/karyawan/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\karyawan\\\\tambah.vue",
+    "chunkName": "pages/admin/karyawan/tambah",
+    "_name": "_42865822"
+  },
+  {
+    "name": "admin-ruangan-data",
+    "path": "/admin/ruangan/data",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\ruangan\\\\data\\\\index.vue",
+    "chunkName": "pages/admin/ruangan/data/index",
+    "_name": "_ea7c0c06"
+  },
+  {
+    "name": "admin-ruangan-tipe",
+    "path": "/admin/ruangan/tipe",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\ruangan\\\\tipe\\\\index.vue",
+    "chunkName": "pages/admin/ruangan/tipe/index",
+    "_name": "_c7bd3306"
+  },
+  {
+    "name": "admin-rujukan-detail",
+    "path": "/admin/rujukan/detail",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\rujukan\\\\detail.vue",
+    "chunkName": "pages/admin/rujukan/detail",
+    "_name": "_7324311c"
+  },
+  {
+    "name": "admin-rujukan-proses",
+    "path": "/admin/rujukan/proses",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\rujukan\\\\proses.vue",
+    "chunkName": "pages/admin/rujukan/proses",
+    "_name": "_6bb26435"
+  },
+  {
+    "name": "apotek-obat-tambah",
+    "path": "/apotek/obat/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\obat\\\\tambah.vue",
+    "chunkName": "pages/apotek/obat/tambah",
+    "_name": "_42529722"
+  },
+  {
+    "name": "apotek-permintaan-detail_tebus_obat",
+    "path": "/apotek/permintaan/detail_tebus_obat",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\permintaan\\\\detail_tebus_obat.vue",
+    "chunkName": "pages/apotek/permintaan/detail_tebus_obat",
+    "_name": "_37b59fe5"
+  },
+  {
+    "name": "apotek-permintaan-proses",
+    "path": "/apotek/permintaan/proses",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\apotek\\\\permintaan\\\\proses.vue",
+    "chunkName": "pages/apotek/permintaan/proses",
+    "_name": "_16153d43"
+  },
+  {
+    "name": "dokter-rujukan-rawat_inap",
+    "path": "/dokter/rujukan/rawat_inap",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\rujukan\\\\rawat_inap.vue",
+    "chunkName": "pages/dokter/rujukan/rawat_inap",
+    "_name": "_56e4ffab"
+  },
+  {
+    "name": "dokter-rujukan-rs_lain",
+    "path": "/dokter/rujukan/rs_lain",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\dokter\\\\rujukan\\\\rs_lain.vue",
+    "chunkName": "pages/dokter/rujukan/rs_lain",
+    "_name": "_76078916"
+  },
+  {
+    "name": "kasir-pembayaran-detail_pembayaran",
+    "path": "/kasir/pembayaran/detail_pembayaran",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\pembayaran\\\\detail_pembayaran.vue",
+    "chunkName": "pages/kasir/pembayaran/detail_pembayaran",
+    "_name": "_2eaab6ee"
+  },
+  {
+    "name": "kasir-pembayaran-riwayat_detail_pembayaran",
+    "path": "/kasir/pembayaran/riwayat_detail_pembayaran",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\kasir\\\\pembayaran\\\\riwayat_detail_pembayaran.vue",
+    "chunkName": "pages/kasir/pembayaran/riwayat_detail_pembayaran",
+    "_name": "_04faf93a"
+  },
+  {
+    "name": "pendaftaran-daftar_pasien-edit",
+    "path": "/pendaftaran/daftar_pasien/edit",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\daftar_pasien\\\\edit.vue",
+    "chunkName": "pages/pendaftaran/daftar_pasien/edit",
+    "_name": "_4dddd0a1"
+  },
+  {
+    "name": "pendaftaran-daftar_pasien-tambah",
+    "path": "/pendaftaran/daftar_pasien/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\daftar_pasien\\\\tambah.vue",
+    "chunkName": "pages/pendaftaran/daftar_pasien/tambah",
+    "_name": "_1ea2efc0"
+  },
+  {
+    "name": "pendaftaran-daftar_pemeriksaan-edit",
+    "path": "/pendaftaran/daftar_pemeriksaan/edit",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\daftar_pemeriksaan\\\\edit.vue",
+    "chunkName": "pages/pendaftaran/daftar_pemeriksaan/edit",
+    "_name": "_499fd695"
+  },
+  {
+    "name": "pendaftaran-daftar_pemeriksaan-tambah",
+    "path": "/pendaftaran/daftar_pemeriksaan/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\pendaftaran\\\\daftar_pemeriksaan\\\\tambah.vue",
+    "chunkName": "pages/pendaftaran/daftar_pemeriksaan/tambah",
+    "_name": "_31fb48b4"
+  },
+  {
+    "name": "admin-ruangan-data-edit",
+    "path": "/admin/ruangan/data/edit",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\ruangan\\\\data\\\\edit.vue",
+    "chunkName": "pages/admin/ruangan/data/edit",
+    "_name": "_b0f714a2"
+  },
+  {
+    "name": "admin-ruangan-data-tambah",
+    "path": "/admin/ruangan/data/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\ruangan\\\\data\\\\tambah.vue",
+    "chunkName": "pages/admin/ruangan/data/tambah",
+    "_name": "_ad96ed64"
+  },
+  {
+    "name": "admin-ruangan-tipe-edit",
+    "path": "/admin/ruangan/tipe/edit",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\ruangan\\\\tipe\\\\edit.vue",
+    "chunkName": "pages/admin/ruangan/tipe/edit",
+    "_name": "_6e45792f"
+  },
+  {
+    "name": "admin-ruangan-tipe-tambah",
+    "path": "/admin/ruangan/tipe/tambah",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\admin\\\\ruangan\\\\tipe\\\\tambah.vue",
+    "chunkName": "pages/admin/ruangan/tipe/tambah",
+    "_name": "_787aa664"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\denia\\\\Projek Customer\\\\SIM-Klinik-Frontend-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6496dcfc"
+  }
+]
